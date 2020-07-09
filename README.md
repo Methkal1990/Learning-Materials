@@ -81,7 +81,7 @@ Being members of a team supporting GCP and discussing everyday about new, old & 
   - [Mongodb University](https://university.mongodb.com/): The official place to learn Mongodb
 
 
-###Cloud Computing
+# Cloud Computing
 
 - Design:
   - [Arcentry](https://arcentry.com/): design your cloud infrastructure visually. Great for cloud architects
@@ -95,7 +95,7 @@ Being members of a team supporting GCP and discussing everyday about new, old & 
   - [Awesome GCP Cloud Run](https://github.com/steren/awesome-cloudrun): everything about cloud run
   - [GCP Cloud Run FAQ](https://github.com/ahmetb/cloud-run-faq)
 
-###Firebase Specific Content:
+# Firebase Specific Content:
 
 - [Official Documentations](https://firebase.google.com/docs)
 
@@ -139,6 +139,6 @@ Being members of a team supporting GCP and discussing everyday about new, old & 
 
 - [Firebase Codelabs](https://codelabs.developers.google.com/?cat=Firebase)
 
-### Not Categorized
+# Not Categorized
 - [Wapplyzer](https://www.wappalyzer.com/): check what tech stack an app or website is using
 - [Make your resume](https://www.resumemaker.online/): create nice and simple resume

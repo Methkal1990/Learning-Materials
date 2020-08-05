@@ -19,6 +19,7 @@ Being members of a team supporting GCP and discussing everyday about new, old & 
   - [VisualGo](https://visualgo.net/): visualize and understand data structures and algorithms. (Love it)  5🌟
   - [Web Developer Road Map](https://coggle.it/diagram/XgtihGj7x4Fvucp6/t/%F0%9F%9A%80%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-web-development-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB%F0%9F%9A%80/24016189368f9b6c68d536238aa1e5d26260a76147667cfa043fec9e613d129f): complete road map to learn Web and Application development. Videos included ❤️❤️❤️❤️❤️
   - [The internet map](https://internet-map.net/): :)
+  - [The Algorithms](https://github.com/TheAlgorithms): A github repo that inlcudes algorithms implementation in every language
 
 - Golang
   - [Gobyexample](https://gobyexample.com/): useful examples and use case for golang’s libraries.
